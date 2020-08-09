@@ -1,0 +1,85 @@
+.img-logo{
+	width: 200px;
+	height: 80px;
+}
+
+.text-menu-index{
+	font-size: 15px;
+}
+
+.menu-text{
+
+	font-size: 12px;
+	margin-left: 50px !important;
+	font-weight: bold;
+	color: black !important;
+}
+
+.menu-text a:hover{
+
+	color:#3ca1d8 !important;
+
+}
+
+.button-top{
+	background: #0c90ef;
+	border: 0;
+	padding: 3px !important;
+
+}
+
+.button-top a:houver{
+
+	color:#3ca1d8 !important;
+
+}
+
+.btn-agenda-top{
+	color:white !important;
+	font-size: 14px;
+}
+
+.carousel-indicators li {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%;
+}
+
+
+.podcast-top{
+
+	width: 100px;
+	height: 50px;
+	margin-left: 80px !important;
+	margin-top: -11px !important;
+	
+}
+
+.image-secun {
+width: 100px;
+height 200px;
+}
+
+.intro-text1 {
+position: absolute;
+margin-top: -395px;
+margin-left: 150px;
+}
+.intro-head {
+position: absolute;
+margin-top: -365px;
+margin-left: 150px;
+font-size: 32px;
+color: blue;
+}
+.intro-text2 {
+position: absolute;
+margin-top: -310px;
+margin-left: 150px;
+}
+.bt-secun{
+position: absolute !important;
+margin-top: -275px !important;
+margin-left: 150px !important;
+
+}
